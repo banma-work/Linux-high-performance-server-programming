@@ -1,5 +1,6 @@
 <?php
 /* 
 Are you OK!
-Are you ? Thank you ! Thank you very much!
+Are you ? Thank you !
+Thank you very much!
  */
